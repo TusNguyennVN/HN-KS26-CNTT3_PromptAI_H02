@@ -13,7 +13,6 @@
 **KET QUA AI**
 
 ```text
-```json
 [
   {
     "ma_dich_vu": "TRAM",
@@ -41,7 +40,7 @@
   }
 ]
 
-```
+
 ```
 
 **Link trò chuyện:** https://share.gemini.google/d9AnBZBSbLGU
