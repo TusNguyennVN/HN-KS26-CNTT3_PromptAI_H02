@@ -99,7 +99,6 @@ Dưới đây là chi tiết tính toán báo giá dịch vụ **CAOVOI** (đơn
 **KET QUA AI**
 
 ```text
-```json
 {
   "loai_su_co": "tre_hen",
   "so_khach": 3,
@@ -107,7 +106,7 @@ Dưới đây là chi tiết tính toán báo giá dịch vụ **CAOVOI** (đơn
   "tom_tat": "Gia đình 3 người phải chờ hơn 1 tiếng trong cả 2 lần hẹn cạo vôi răng."
 }
 
-```
+
 ```
 
 **Link trò chuyện:** https://share.gemini.google/b3Txe1827IKk
